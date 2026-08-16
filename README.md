@@ -1,8 +1,9 @@
-![logo](https://github.com/prithvihttp/prithvihttp/blob/main/image.webp)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="logo">
+</p>
 <h1 align="center">Hi 👋, I'm Prithviraj Kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prithvihttp&label=Profile%20views&color=0e75b6&style=flat" alt="prithvihttp" /> </p>
+
 
 Email Me 👉 ✉️ **prithviraj6868@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -11,6 +12,8 @@ Email Me 👉 ✉️ **prithviraj6868@gmail.com** For Collaboration/Project or A
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prithviraj-kumar)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prithviraj6868@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://www.leetcode.com/prithvi_raaj)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?logo=googlechrome&logoColor=white)](https://dev-portfolio-psi-woad.vercel.app/)
+
 
 
 # 💻 Tech Stack:
